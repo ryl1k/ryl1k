@@ -61,4 +61,3 @@ Ideas around tasks, scoring, and how to measure progress instead of just chasing
 ## Contact
 
 - GitHub: [@ryl1k](https://github.com/ryl1k)  
-- (add email / links here if you actually want people to find you)
